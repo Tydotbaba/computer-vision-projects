@@ -1,3 +1,9 @@
 [submodule "interactive-web-image-editor"]
 	path = interactive-web-image-editor
 	url = git@github.com:Tydotbaba/interactive-web-image-editor.git
+[submodule "face_landmark_detection"]
+	path = face_landmark_detection
+	url = git@github.com:Tydotbaba/face_landmark_detection.git
+[submodule "Image-Processing-Operations-with-OpenCV"]
+	path = Image-Processing-Operations-with-OpenCV
+	url = git@github.com:Tydotbaba/Image-Processing-Operations-with-OpenCV.git
