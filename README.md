@@ -5,7 +5,7 @@ The Parent directory of my computer vision projects
 ## Interactive Web Image Editor
 This is a simple web-based image editor that allows users to apply various filters and effects to images using OpenCV and Flask. The project demonstrates how to create an interactive web application with image processing capabilities.
 
-Here is the link to the [Interactive-web-image-editor](https://github.com:Tydotbaba/interactive-web-image-editor.git) project.
+Here is the link to the [Interactive-web-image-editor](https://github.com:Tydotbaba/interactive-web-image-editor) project.
 
 ## Face Landmark Detection
 
