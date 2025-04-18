@@ -1,0 +1,3 @@
+[submodule "interactive-web-image-editor"]
+	path = interactive-web-image-editor
+	url = git@github.com:Tydotbaba/interactive-web-image-editor.git
